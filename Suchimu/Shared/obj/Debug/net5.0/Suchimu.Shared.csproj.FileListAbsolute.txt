@@ -1,0 +1,36 @@
+D:\Projects\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.deps.json
+D:\Projects\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.dll
+D:\Projects\Suchimu\Shared\bin\Debug\net5.0\ref\Suchimu.Shared.dll
+D:\Projects\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.pdb
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.csproj.AssemblyReference.cache
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.AssemblyInfoInputs.cache
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.AssemblyInfo.cs
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.dll
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\ref\Suchimu.Shared.dll
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.pdb
+C:\Users\hieu0\Desktop\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.deps.json
+C:\Users\hieu0\Desktop\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.dll
+C:\Users\hieu0\Desktop\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.pdb
+C:\Users\hieu0\Desktop\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.csproj.AssemblyReference.cache
+C:\Users\hieu0\Desktop\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieu0\Desktop\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.AssemblyInfoInputs.cache
+C:\Users\hieu0\Desktop\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.AssemblyInfo.cs
+C:\Users\hieu0\Desktop\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hieu0\Desktop\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.dll
+C:\Users\hieu0\Desktop\Suchimu\Shared\obj\Debug\net5.0\refint\Suchimu.Shared.dll
+C:\Users\hieu0\Desktop\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.pdb
+C:\Users\hieu0\Desktop\Suchimu\Shared\obj\Debug\net5.0\ref\Suchimu.Shared.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.deps.json
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.pdb
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.csproj.AssemblyReference.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.AssemblyInfoInputs.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.AssemblyInfo.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\obj\Debug\net5.0\refint\Suchimu.Shared.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.pdb
+C:\Users\hieu0\Desktop\thương mai điện tử\final\Suchimu\Shared\obj\Debug\net5.0\ref\Suchimu.Shared.dll

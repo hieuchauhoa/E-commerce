@@ -1,0 +1,1308 @@
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\Admin.Client.StaticWebAssets.xml
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\Admin.Client.pdb
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Admin.Client.pdb
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.AssemblyReference.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.AssemblyInfoInputs.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.AssemblyInfo.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.CoreCompileInputs.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorComponent.input.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddCategory.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddGame.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddStat.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudio.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditCategory.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditGame.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditStat.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudio.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Games.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Stats.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Studios.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Shared\LoginLayout.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorComponent.output.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.TagHelpers.input.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.TagHelpers.output.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorCoreGenerate.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddCategory.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddGame.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddStat.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddStudio.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Categories.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditCategory.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditGame.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditStat.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditStudio.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Games.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Stats.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Studios.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Shared\LoginLayout.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NXCsGX12.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Tq5ORZRe.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\aeJQu5Sw.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\cAPiSn1T.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\TZNo2S++.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\kahE9g1J.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\JR7XDmf5.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\q+DitJGd.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\k8YsbNPx.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\CTdXdcyl.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\6mHZ11y2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ILadgLvi.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\qVjgKr4U.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\8pbq6lu7.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\8o+6lhHw.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\yT6efHnW.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\cx+nprsz.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\xmseTbwQ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\VLUd9cT4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\TjyGDokg.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\+g7jn53R.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\qua1Bbc4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Yz0aziYv.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\5Tg+k0Qt.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\1JLwOW4H.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Xl22jUZb.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\7+67bYB7.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\vf1yeHjm.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\AWxAQc2Y.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\66tQcdkY.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\yTOA+c1X.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\lOJisyY4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NNrXtrSV.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\W0I2gWZ0.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\J7kPwr9I.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\OGIcbL9d.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\XmTOm559.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\dVSVk7cp.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\aAUpHqFl.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\6g6yCO6T.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\PLO+jhWp.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\kkT84l0i.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\H2xQEzMD.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\RyJKU+4U.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\HSfRKKzL.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\1GLvei3p.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\dReb2CLU.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\sYALRZcm.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\LbD5InNZ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\RHV5H5KG.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\byB6gGqO.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\y5rNTo6Q.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\FznQ2HrP.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\V+D1cdeT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pj5VM658.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\+A68Ihrc.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\BXIf+D0t.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Bluc12C0.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\MzJ2n4wk.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\U3OcEQmf.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\gB9w4Q6K.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NT4nVjN4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\jdhI0WgT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\YmxGBRqf.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\LCyO6TQT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\UL9ctFZS.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\bUQtw1L3.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\QfGwXiku.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\tm0yycEN.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\JpxAhHE2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\mEPQ5jxi.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\vhVx35me.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\vzlttICZ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NsVR8YPF.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\na0ya0nE.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\hVZpDGAr.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\U3J7Np5H.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\f1H8Nlib.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\3Q48c7WL.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\aY7O+Vs8.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pYdqgZjd.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\eRwWemuy.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\TOjmUtd0.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\reZQRajX.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pNRbp0Ge.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Ft4FabBJ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\mUhJf4qP.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\WTbwTdEL.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\V3f5R2zb.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\HADRmAih.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\P6C9apLT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\YQ3Ol+ha.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ZkoarAQW.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\r6nu5ZVP.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\uXzsPj5A.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\zNJId3oL.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\mTTEpvvW.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\CEOrPANv.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\GSyafs+9.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\POR91anZ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\w9TwLLmF.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\5GxlfBZE.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\IouKnvGe.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\gUmZn0Y3.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\A5fFbZ5r.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NSWNf4zA.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ZgVu+oHu.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\CvKlbQFM.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\TOo0LpUh.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\V3QRZPQN.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\RZ2i3zOb.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Utr4whDg.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Kzysh4mG.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\mIL1MVaN.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\lSOe7+jc.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\2+JwDZ9Q.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ichrDbGe.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\L1rjRW5f.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pniaL8Ru.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\jj3OGoRa.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Cuoweiqm.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\t3S+ljYI.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\bioROCfg.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\gZ+dMn05.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\fFIm2VNT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ga8iJQCn.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\aziwhCm2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\lZwIaMxU.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\DXF8XejV.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pVs1aDkH.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\E73Ukga3.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\FX7Rq5a9.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\wYlPvsy7.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\gvJDWlsz.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\3yFGLAt2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\0CY+M+V4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\k3E3Fc6K.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\MbQLlUhy.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\5YNVpQxT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\99VWWnIJ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\QxWZDBS0.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\g2aYB1me.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Ml7vXTGG.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Ca6uj4U2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\qh7utl5+.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ktreNYx2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\4Ba1QlwY.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\an97JN0A.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\hFM1tPag.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\8ROp4m+q.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\PbhheiiW.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\mp+oIm+Z.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\xWY3WO1+.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ENHV05x2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\MCQIaUJ6.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\bCclC1jS.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\jhukb5Sw.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\9+gKZEwC.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\4PjexQ3Q.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pOoBzMfG.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\VB3TnAxm.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\wyAb+rP2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\kubWay9d.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\IcjO5MF7.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Lo+q7Ii6.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\qrK7J8AD.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\TkbNRqqs.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\VYP7bL9I.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\L2h1mvW6.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\OgtsV+Dy.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Ela03CFI.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\lXcNuklW.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\B57kYalr.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\aseTT+dt.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\4zUm+uqv.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\n5q8CG6M.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\L7IyqPxs.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\6uHHp1NR.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\c93JsSZS.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\VLGSDnkn.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NYAmKPxg.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\7n2er3Xi.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\HExvEtlN.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\yTK0i7zI.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\qcrfAfkG.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\FAlXWPXP.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\XC7JhyLB.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\KaIsGeH0.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\nH0O0qYx.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\L4nlpBn4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\+32JHku6.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\OJiij7Sy.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\cnjetjhs.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\7Pv2IpAZ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\xxIZrIRM.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\3FNKxyfw.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\QwhziDMc.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\kXt0WvTj.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\scopedcss\bundle\Admin.Client.styles.css
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\staticwebassets\Admin.Client.StaticWebAssets.Manifest.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\staticwebassets\Admin.Client.StaticWebAssets.xml
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorTargetAssemblyInfo.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.CopyComplete
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\refint\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.pdb
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\ref\Admin.Client.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\Admin.Client.StaticWebAssets.xml
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\Admin.Client.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\Admin.Client.pdb
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Admin.Client.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Admin.Client.pdb
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.AssemblyReference.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.AssemblyInfoInputs.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.AssemblyInfo.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.CoreCompileInputs.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorComponent.input.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddCategory.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddGame.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddStat.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudio.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditCategory.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditGame.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditStat.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudio.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Games.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Stats.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Studios.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Shared\LoginLayout.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorComponent.output.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Admin.Client.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.TagHelpers.input.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.TagHelpers.output.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorCoreGenerate.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddCategory.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddGame.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddStat.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddStudio.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Categories.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditCategory.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditGame.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditStat.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditStudio.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Games.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Stats.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Studios.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Shared\LoginLayout.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\NXCsGX12.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Tq5ORZRe.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\aeJQu5Sw.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\cAPiSn1T.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\TZNo2S++.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\kahE9g1J.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\JR7XDmf5.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\q+DitJGd.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\k8YsbNPx.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\CTdXdcyl.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\6mHZ11y2.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\ILadgLvi.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\qVjgKr4U.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\8pbq6lu7.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\8o+6lhHw.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\yT6efHnW.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\cx+nprsz.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\xmseTbwQ.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\VLUd9cT4.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\TjyGDokg.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\+g7jn53R.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\qua1Bbc4.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Yz0aziYv.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\5Tg+k0Qt.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\1JLwOW4H.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Xl22jUZb.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\7+67bYB7.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\vf1yeHjm.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\AWxAQc2Y.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\66tQcdkY.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\yTOA+c1X.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\lOJisyY4.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\NNrXtrSV.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\W0I2gWZ0.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\J7kPwr9I.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\OGIcbL9d.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\XmTOm559.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\dVSVk7cp.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\aAUpHqFl.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\6g6yCO6T.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\PLO+jhWp.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\kkT84l0i.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\H2xQEzMD.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\RyJKU+4U.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\HSfRKKzL.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\1GLvei3p.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\dReb2CLU.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\sYALRZcm.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\LbD5InNZ.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\RHV5H5KG.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\byB6gGqO.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\y5rNTo6Q.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\FznQ2HrP.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\V+D1cdeT.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\pj5VM658.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\+A68Ihrc.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\BXIf+D0t.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Bluc12C0.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\MzJ2n4wk.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\U3OcEQmf.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\gB9w4Q6K.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\NT4nVjN4.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\jdhI0WgT.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\YmxGBRqf.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\LCyO6TQT.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\UL9ctFZS.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\bUQtw1L3.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\QfGwXiku.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\tm0yycEN.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\JpxAhHE2.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\mEPQ5jxi.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\vhVx35me.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\vzlttICZ.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\NsVR8YPF.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\na0ya0nE.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\hVZpDGAr.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\U3J7Np5H.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\f1H8Nlib.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\3Q48c7WL.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\aY7O+Vs8.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\pYdqgZjd.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\eRwWemuy.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\TOjmUtd0.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\reZQRajX.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\pNRbp0Ge.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Ft4FabBJ.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\mUhJf4qP.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\WTbwTdEL.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\V3f5R2zb.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\HADRmAih.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\P6C9apLT.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\YQ3Ol+ha.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\ZkoarAQW.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\r6nu5ZVP.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\uXzsPj5A.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\zNJId3oL.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\mTTEpvvW.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\CEOrPANv.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\GSyafs+9.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\POR91anZ.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\w9TwLLmF.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\5GxlfBZE.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\IouKnvGe.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\gUmZn0Y3.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\A5fFbZ5r.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\NSWNf4zA.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\ZgVu+oHu.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\CvKlbQFM.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\TOo0LpUh.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\V3QRZPQN.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\RZ2i3zOb.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Utr4whDg.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Kzysh4mG.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\mIL1MVaN.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\lSOe7+jc.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\2+JwDZ9Q.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\ichrDbGe.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\L1rjRW5f.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\pniaL8Ru.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\jj3OGoRa.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Cuoweiqm.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\t3S+ljYI.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\bioROCfg.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\gZ+dMn05.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\fFIm2VNT.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\ga8iJQCn.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\aziwhCm2.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\lZwIaMxU.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\DXF8XejV.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\pVs1aDkH.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\E73Ukga3.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\FX7Rq5a9.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\wYlPvsy7.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\gvJDWlsz.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\3yFGLAt2.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\0CY+M+V4.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\k3E3Fc6K.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\MbQLlUhy.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\5YNVpQxT.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\99VWWnIJ.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\QxWZDBS0.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\g2aYB1me.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Ml7vXTGG.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Ca6uj4U2.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\qh7utl5+.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\ktreNYx2.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\4Ba1QlwY.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\an97JN0A.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\hFM1tPag.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\8ROp4m+q.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\PbhheiiW.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\mp+oIm+Z.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\xWY3WO1+.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\ENHV05x2.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\MCQIaUJ6.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\bCclC1jS.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\jhukb5Sw.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\9+gKZEwC.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\4PjexQ3Q.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\pOoBzMfG.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\VB3TnAxm.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\wyAb+rP2.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\kubWay9d.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\IcjO5MF7.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Lo+q7Ii6.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\qrK7J8AD.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\TkbNRqqs.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\VYP7bL9I.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\L2h1mvW6.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\OgtsV+Dy.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\Ela03CFI.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\lXcNuklW.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\B57kYalr.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\aseTT+dt.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\4zUm+uqv.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\n5q8CG6M.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\L7IyqPxs.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\6uHHp1NR.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\c93JsSZS.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\VLGSDnkn.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\NYAmKPxg.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\7n2er3Xi.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\HExvEtlN.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\yTK0i7zI.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\qcrfAfkG.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\FAlXWPXP.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\XC7JhyLB.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\KaIsGeH0.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\nH0O0qYx.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\L4nlpBn4.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\+32JHku6.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\OJiij7Sy.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\cnjetjhs.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\7Pv2IpAZ.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\xxIZrIRM.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\3FNKxyfw.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\QwhziDMc.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\build-gz\6RB91Ofs.gz
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\scopedcss\bundle\Admin.Client.styles.css
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\staticwebassets\Admin.Client.StaticWebAssets.Manifest.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\staticwebassets\Admin.Client.StaticWebAssets.xml
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorTargetAssemblyInfo.cache
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.CopyComplete
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\refint\Admin.Client.dll
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\Admin.Client.pdb
+C:\Users\hieu0\Desktop\thương mai điện tử\final\admin_EC\client\obj\Debug\net5.0\ref\Admin.Client.dll

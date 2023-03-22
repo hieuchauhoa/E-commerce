@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Client",
+    "\\Client\\obj\\Release\\net5.0",
+    "\\Client\\Pages",
+    "\\Client\\Properties",
+    "\\Client\\Services",
+    "\\Client\\Shared",
+    "\\Client\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\Client\\Pages\\Login.razor",
+  "PreviewInSolutionExplorer": false
+}

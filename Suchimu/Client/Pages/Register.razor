@@ -1,0 +1,46 @@
+@page "/register"
+@inject ILocalStorageService LocalStorage
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider AuthStateProvider
+@inject IToastService ToastService
+@inject ICartService CartService
+@inject ICartService CartService
+
+<h3>Register</h3>
+
+<EditForm Model="user" >
+     <div class="form-group">
+        <label for="name">Name:</label>
+        <InputText id="name" @bind-Value="user.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <InputText id="email" @bind-Value="user.Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="username">User</label>
+        <InputText id="username" @bind-Value="user.Username" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <InputText id="password" type="password" @bind-Value="user.Password" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="phonenum">Phone Number</label>
+        <InputText id="phonenum"  @bind-Value="user.PhoneNumber" class="form-control" />
+    </div>
+    <div>
+        <NavLink href="/login"><button type="submit" class="btn btn-primary"  @onclick="DK" >Register</button></NavLink>
+         <NavLink href="/login" class="btn btn-link">Cancel</NavLink>
+    </div>
+</EditForm>
+
+@code {
+    private UserAccount user = new UserAccount();
+
+
+    private async Task DK()
+    {
+        await CartService.noti();
+    }
+}
